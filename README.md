@@ -18,9 +18,9 @@ Thank you for your interest in this project! We encourage you to migrate to the 
 
 # hccpy 
 
-Hierachical Condition Categories Python Package.
+Hierarchical Condition Categories Python Package.
 
-This module implements the [Hierachical Condition Categories](https://www.cms.gov/cciio/resources/forms-reports-and-other-resources/downloads/ra-march-31-white-paper-032416.pdf) that are used for adjusting risks for the Medicare population.
+This module implements the [Hierarchical Condition Categories](https://www.cms.gov/cciio/resources/forms-reports-and-other-resources/downloads/ra-march-31-white-paper-032416.pdf) that are used for adjusting risks for the Medicare population.
 The original SAS implementation can be found [here](https://www.nber.org/data/cms-risk-adjustment.html).
 
 The latest version is 0.1.10 which was released on 04/10/2024.
@@ -265,7 +265,7 @@ If a member has a different eligibility status, change the eligibility as follow
 }
 ```
 
-### HCC-Describing a Hierachical Condition Category
+### HCC-Describing a Hierarchical Condition Category
 
 To get the description, hierarchy parents and children of a HCC:
 
